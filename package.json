@@ -1,0 +1,22 @@
+{
+  "name": "population",
+  "version": "1.0.0",
+  "description": "用于总结mongoose Population的关系使用",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hi363138911/mongoose_Population.git"
+  },
+  "author": "liangtongzhuo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hi363138911/mongoose_Population/issues"
+  },
+  "homepage": "https://github.com/hi363138911/mongoose_Population#readme",
+  "dependencies": {
+    "mongoose": "^4.9.2"
+  }
+}
